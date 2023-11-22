@@ -1,0 +1,17 @@
+.navbar{
+    background-color: transparent;
+    height: 65px;
+    margin-top: -25px;
+   
+    
+}
+.HR{
+    font-size: 16px;
+ 
+    color:rgb(170, 167, 167);
+}
+
+.HR:hover{
+    transform: scale(1.1);
+    color: white;
+}

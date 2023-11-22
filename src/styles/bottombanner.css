@@ -1,0 +1,12 @@
+.banner{
+    background: linear-gradient(to right, rgb(220, 37, 190), #3badef);
+    height: 9vh;
+    
+}
+
+.banner li{
+    margin-top: 15px;
+    margin-bottom: -15px;
+    
+    
+}

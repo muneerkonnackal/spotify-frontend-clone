@@ -1,0 +1,30 @@
+.mainfooter{
+
+background-color:#060606 ;
+margin-top: 140px;
+}
+
+.mainfooter .footerdiv1 {
+margin-top: 25px;
+}
+.footerdiv1 ul{
+    margin-top: 70px;
+}
+
+.footerdiv1 ul .btn{
+    background-color: rgb(53, 54, 54);
+    color: white;
+    height: 40px;
+    border-radius: 50%;
+}
+.footerdiv1 ul .btn:hover{
+    background-color: rgb(184, 191, 191);
+    color: white;
+}
+
+.footerdiv1 ul li{
+    list-style: none;
+    color: rgb(152, 149, 149);
+    font-weight: 700;
+    margin-top: 10px;
+}

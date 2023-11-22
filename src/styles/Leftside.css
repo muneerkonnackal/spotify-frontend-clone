@@ -1,0 +1,65 @@
+.Leftmenu{
+    width: 320px;
+    height: 100%;
+    min-height: 100vh;
+    background:black;
+    
+}
+
+.logocard{
+    background-color:rgba(34, 34, 34, 0.6);
+}
+.library{
+    background-color:rgba(34, 34, 34, 0.6);
+color: rgb(152, 149, 149);
+}
+
+.scrolldiv{
+    background-color:rgba(0, 0, 0, 0.6);
+    overflow-y: scroll;
+    overflow-x: hidden;
+    height: 220px;
+    scroll-behavior: smooth;
+    scrollbar-color: transparent transparent;
+    
+    
+}
+
+.div1{
+    background-color:rgba(66, 64, 64, 0.6);
+    width: 250px;
+    
+   
+
+}
+.scrolldiv:hover button{
+  color: rgb(13, 13, 13);
+  
+}
+/* For Webkit-based browsers (Chrome, Safari) */
+.scrolldiv::-webkit-scrollbar {
+    width: 12px; /* Set the width of the scrollbar */
+    
+  }
+ 
+  
+  .scrolldiv::-webkit-scrollbar-thumb {
+    background-color: rgb(191, 183, 183); /* Color of the scrollbar thumb */
+    border-radius: 0px; /* Round the corners of the thumb */
+    
+    
+  }
+  
+  .scrolldiv::-webkit-scrollbar-track {
+    background-color: transparent; /* Transparent color for the scrollbar track */
+  }
+  .leftfooter ul{
+    margin-left: -20px;
+  }
+
+  .leftfooter li{
+    font-size: 12px;
+    margin-left: 8px;
+    
+    
+  }
